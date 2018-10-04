@@ -1,2 +1,2 @@
-# Welcome to out first git repository
+# Welcome to out git repository
 ## I don't know what I'm doing!
